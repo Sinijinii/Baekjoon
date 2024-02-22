@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3512a0-92df-4a11-8c92-22243842c73b" name="Default Changelist" comment="pass the examination supervisor">
-      <change afterPath="$PROJECT_DIR$/DP/14501_Resignation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.out" afterDir="false" />
+    <list default="true" id="ff3512a0-92df-4a11-8c92-22243842c73b" name="Default Changelist" comment="use insert">
+      <change afterPath="$PROJECT_DIR$/0221/10157_allocation of seats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0221/2527_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0221/2669_the combined area of a rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/14888_Insert operator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/14501_Resignation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/14501_Resignation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/input.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.out" beforeDir="false" afterPath="$PROJECT_DIR$/output.out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +48,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/input.in" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Python.14501_Resignation">
-    <configuration name="13458_examination supervisor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="10157_allocation of seats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <output_file path="$PROJECT_DIR$/output.out" is_save="true" />
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,12 +57,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="SDK_HOME" value="C:\Users\SSAFY\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0221" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/13458_examination supervisor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0221/10157_allocation of seats.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +71,7 @@
       <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\sini_jini\Baekjoon\input.in" />
       <method v="2" />
     </configuration>
-    <configuration name="14501_Resignation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <output_file path="$PROJECT_DIR$/output.out" is_save="true" />
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,97 +79,23 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/14501_Resignation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\sini_jini\Baekjoon\input.in" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2164_card2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="baekjoon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QUEUE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QUEUE/2164_card2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2563_colored paper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="baekjoon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS_BFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS_BFS/2563_colored paper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SEOUL01_PYTHON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="baekjoon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../일타싸피/통신테스트코드" />
+      <option name="SDK_HOME" value="C:\Users\SSAFY\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../일타싸피/통신테스트코드/SEOUL01_PYTHON.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\sini_jini\Baekjoon\input.in" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.2164_card2" />
-      <item itemvalue="Python.2563_colored paper" />
-      <item itemvalue="Python.13458_examination supervisor" />
-      <item itemvalue="Python.SEOUL01_PYTHON" />
-      <item itemvalue="Python.14501_Resignation" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14501_Resignation" />
-        <item itemvalue="Python.13458_examination supervisor" />
-        <item itemvalue="Python.2164_card2" />
-        <item itemvalue="Python.SEOUL01_PYTHON" />
-        <item itemvalue="Python.2563_colored paper" />
+        <item itemvalue="Python.10157_allocation of seats" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +192,42 @@
       <option name="project" value="LOCAL" />
       <updated>1708070966310</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Save in the middle">
+      <created>1708071980443</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708071980443</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Pass the 2775 [When creating an array&#10;Use &quot;for&quot; statements to avoid referring to the same address value]">
+      <created>1708393493271</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708393493271</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Pass the Fibo">
+      <created>1708394211000</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708394211000</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Pass the bridge [use mCn -&gt; factorial]">
+      <created>1708394791118</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708394791118</updated>
+    </task>
+    <task id="LOCAL-00017" summary="use insert">
+      <created>1708415599451</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708415599451</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +255,27 @@
     <MESSAGE value="Unsolved [Only successful test case]" />
     <MESSAGE value="pass" />
     <MESSAGE value="pass the examination supervisor" />
-    <option name="LAST_COMMIT_MESSAGE" value="pass the examination supervisor" />
+    <MESSAGE value="Save in the middle" />
+    <MESSAGE value="Pass the 2775 [When creating an array&#10;Use &quot;for&quot; statements to avoid referring to the same address value]" />
+    <MESSAGE value="Pass the Fibo" />
+    <MESSAGE value="Pass the bridge [use mCn -&gt; factorial]" />
+    <MESSAGE value="use insert" />
+    <option name="LAST_COMMIT_MESSAGE" value="use insert" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0221/2669_the combined area of a rectangle.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0221/10157_allocation of seats.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
