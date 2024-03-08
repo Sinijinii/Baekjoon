@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff3512a0-92df-4a11-8c92-22243842c73b" name="Default Changelist" comment="use insert">
-      <change afterPath="$PROJECT_DIR$/0221/10157_allocation of seats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0221/2527_rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0221/2669_the combined area of a rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/14888_Insert operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/7569_tomato.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/15649_N &amp; M.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/14501_Resignation.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/14501_Resignation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/input.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.out" beforeDir="false" afterPath="$PROJECT_DIR$/output.out" afterDir="false" />
     </list>
@@ -46,10 +43,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/input.in" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration name="10157_allocation of seats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7569_tomato" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <output_file path="$PROJECT_DIR$/output.out" is_save="true" />
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,17 +55,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\SSAFY\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0221" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0221/10157_allocation of seats.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/7569_tomato.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\sini_jini\Baekjoon\input.in" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\SINIJINI\BJ\input.in" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -90,12 +87,12 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\sini_jini\Baekjoon\input.in" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\SINIJINI\BJ\input.in" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10157_allocation of seats" />
+        <item itemvalue="Python.7569_tomato" />
       </list>
     </recent_temporary>
   </component>
