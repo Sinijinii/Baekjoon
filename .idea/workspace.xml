@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3512a0-92df-4a11-8c92-22243842c73b" name="Default Changelist" comment="use insert">
-      <change afterPath="$PROJECT_DIR$/A+/7569_tomato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/15649_N &amp; M.py" afterDir="false" />
+    <list default="true" id="9856b57d-402d-40f6-a012-c9f911d79239" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/240320/신희진/16234_인구이동.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/input.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.out" beforeDir="false" afterPath="$PROJECT_DIR$/output.out" afterDir="false" />
@@ -23,16 +25,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="2bmwMWyoCz8lrwlFdBvxDn2WIHP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2dqt9XnIG3DuTTkjrUutlaC9XCV" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -42,35 +36,56 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/input.in" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="7569_tomato" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.16234_인구이동">
+    <configuration name="16234_인구이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <output_file path="$PROJECT_DIR$/output.out" is_save="true" />
-      <module name="baekjoon" />
+      <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\SSAFY\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240320/신희진" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/7569_tomato.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240320/신희진/16234_인구이동.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\SINIJINI\BJ\input.in" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\BJ\input.in" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20055_컨베이어 벨트 위의 로봇" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/output.out" is_save="true" />
+      <module name="BJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\SSAFY\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/240320" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/240320/20055_컨베이어 벨트 위의 로봇.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\BJ\input.in" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <output_file path="$PROJECT_DIR$/output.out" is_save="true" />
-      <module name="baekjoon" />
+      <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -87,144 +102,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\SINIJINI\BJ\input.in" />
+      <option name="INPUT_FILE" value="C:\Users\SSAFY\Desktop\BJ\input.in" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7569_tomato" />
+        <item itemvalue="Python.16234_인구이동" />
+        <item itemvalue="Python.20055_컨베이어 벨트 위의 로봇" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff3512a0-92df-4a11-8c92-22243842c73b" name="Default Changelist" comment="" />
-      <created>1706833514450</created>
+      <changelist id="9856b57d-402d-40f6-a012-c9f911d79239" name="Default Changelist" comment="" />
+      <created>1710747285066</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706833514450</updated>
+      <updated>1710747285066</updated>
     </task>
-    <task id="LOCAL-00001" summary="baekjoon">
-      <created>1706833720752</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1706833720752</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Use sum(map(int, data))">
-      <created>1707121135051</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1707121135051</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Use bitwise operator">
-      <created>1707122386701</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1707122386701</updated>
-    </task>
-    <task id="LOCAL-00004" summary="str in str">
-      <created>1707123410904</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1707123410904</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Categorization by Algorithm">
-      <created>1707201180272</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1707201180272</updated>
-    </task>
-    <task id="LOCAL-00006" summary="partial sum&#10;[use bitwise operator]">
-      <created>1707208573080</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1707208573080</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Pass the parenthesis check &#10;[Use dict]">
-      <created>1707277068123</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1707277068123</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Stack">
-      <created>1707285183849</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1707285183849</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Pass the room assignment [Use filter(lambda )]">
-      <created>1707812720081</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1707812720081</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Unsolved [Only successful test case]">
-      <created>1707984653469</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1707984653469</updated>
-    </task>
-    <task id="LOCAL-00011" summary="pass">
-      <created>1707984709281</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1707984709281</updated>
-    </task>
-    <task id="LOCAL-00012" summary="pass the examination supervisor">
-      <created>1708070966310</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1708070966310</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Save in the middle">
-      <created>1708071980443</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1708071980443</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Pass the 2775 [When creating an array&#10;Use &quot;for&quot; statements to avoid referring to the same address value]">
-      <created>1708393493271</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1708393493271</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Pass the Fibo">
-      <created>1708394211000</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1708394211000</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Pass the bridge [use mCn -&gt; factorial]">
-      <created>1708394791118</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1708394791118</updated>
-    </task>
-    <task id="LOCAL-00017" summary="use insert">
-      <created>1708415599451</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1708415599451</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,41 +134,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="baekjoon" />
-    <MESSAGE value="Use sum(map(int, data))" />
-    <MESSAGE value="Use bitwise operator" />
-    <MESSAGE value="str in str" />
-    <MESSAGE value="Categorization by Algorithm" />
-    <MESSAGE value="partial sum&#10;[use bitwise operator]" />
-    <MESSAGE value="Pass the parenthesis check &#10;[Use dict]" />
-    <MESSAGE value="Stack" />
-    <MESSAGE value="Pass the room assignment [Use filter(lambda )]" />
-    <MESSAGE value="Unsolved [Only successful test case]" />
-    <MESSAGE value="pass" />
-    <MESSAGE value="pass the examination supervisor" />
-    <MESSAGE value="Save in the middle" />
-    <MESSAGE value="Pass the 2775 [When creating an array&#10;Use &quot;for&quot; statements to avoid referring to the same address value]" />
-    <MESSAGE value="Pass the Fibo" />
-    <MESSAGE value="Pass the bridge [use mCn -&gt; factorial]" />
-    <MESSAGE value="use insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="use insert" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0221/2669_the combined area of a rectangle.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0221/10157_allocation of seats.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
