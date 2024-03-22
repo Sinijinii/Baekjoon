@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9856b57d-402d-40f6-a012-c9f911d79239" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/240320/신희진/16234_인구이동.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9856b57d-402d-40f6-a012-c9f911d79239" name="Default Changelist" comment="Use BFS">
+      <change afterPath="$PROJECT_DIR$/240320/신희진/[HSAT 5회 정기 코딩 인증평가 기출] 업무 처리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/input.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.out" beforeDir="false" afterPath="$PROJECT_DIR$/output.out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SINIJINI" />
   </component>
   <component name="RunManager" selected="Python.16234_인구이동">
     <configuration name="16234_인구이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -121,6 +116,14 @@
       <option name="presentableId" value="Default" />
       <updated>1710747285066</updated>
     </task>
+    <task id="LOCAL-00001" summary="Use BFS">
+      <created>1710841359276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841359276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +137,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Use BFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use BFS" />
   </component>
 </project>
